@@ -11,7 +11,7 @@ Script and dataset for the entitled paper "The undervalued contributions and pro
 # Note 2: Starting from line 489, the analysis commands for the database 
 # "microdata_prac.csv" are shown, which is provided as supplementary material 
 # for this article.
-# Author: Julio Díaz-José
+#
 #-------------------------------------------------------------------------------
 # Packages
 library(readr)
