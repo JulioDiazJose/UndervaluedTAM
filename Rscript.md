@@ -1,7 +1,6 @@
 #-------------------------------------------------------------------------------
-# This R script is part of the entitled paper: "The undervalued contributions
-# and profitability of traditional agricultural systems: a case study of the
-# milpa in Mexico"
+# This R script is part of the entitled paper: "Reassessing the profitability of diverse traditional 
+# agricultural systems: a case study of the milpa in Mexico"
 # Note 1: From line 13 to line 486, the analyses were conducted within the 
 # microdata laboratory. This section shows how the data was obtained, cleaned, 
 # and how variables were calculated and transformed.
